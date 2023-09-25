@@ -13,4 +13,6 @@ Etudiant 4 : [Ibrahima NGOM](mailto:ibrahima.ngom@edu.univ-fcomte.fr?subject=SAE
 
 # Présentation du projet
 
+Nous sommes un groupe d'étudiant de l'IUT Nord-Franche-comté qui, dans le cadre d'une situation d'évaluation et d'apprentissage (SAÉ),doit créer un site web présentant une entreprise française du secteur informatique.
+Nous avons choisis l'entreprise SFR car 
 
