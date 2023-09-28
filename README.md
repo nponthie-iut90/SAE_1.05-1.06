@@ -2,7 +2,7 @@
 
 création d'un site web fictif présentant l'entreprise SFR.
 
-[Site_web_SFR](https://nponthie-iut90.github.io/S1_2023_SAE/)
+[Page d'accueil](https://nponthie-iut90.github.io/S1_2023_SAE/)
 ## Membres du groupe :
 
 Etudiant 1 (référent du groupe) :  [Nathan PONTHIEU](mailto:nathan.ponthieu@edu.univ-fcomte.fr?subject=SAE_1_05_06)  
