@@ -73,6 +73,7 @@ header li {
 .grid img {
     height: 200px;
     width: 200px;
+    margin:50px;
 }
 
 .image_enseigne {
@@ -81,14 +82,17 @@ header li {
 
 .article1 {
     grid-area: ta1;
+    margin: 20px;
 }
 
 .article2 {
     grid-area: ta2;
+    margin: 20px;
 }
 
 .article3 {
     grid-area: ta3;
+    margin: 20px;
 }
 
 .image_boutique_sfr {
