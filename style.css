@@ -54,3 +54,53 @@ header li {
     text-align: center;
 } 
 
+main  {
+    height: 600px;
+    width: 100%;
+    background: greenyellow;
+}
+
+.flexbox {
+    border: 0px solid darkblue;
+    border-radius: 0%;
+}
+
+.flexbox li {
+    list-style: none;
+    height: 600px;
+    width: 50%;
+    justify-content: center;
+}
+
+.flexbox li img {
+    align-items: center;
+}
+
+.flexbox li div {
+    background: white;
+    height: 600px;
+}
+
+.flexbox li div h1 {
+    margin-left: 50px;
+}
+
+.flexbox li div p {
+    margin-left: 50px;
+}
+
+.flexbox ul {
+    padding: 0;
+    display: flex;
+}
+
+.image-centree {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+}
+
+.flexbox h2 {
+    margin-left: 50px;
+}
