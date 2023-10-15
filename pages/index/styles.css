@@ -1,11 +1,11 @@
 @font-face {
-    font-family: "Calibri Regular";
-    src: url('../../polices/Calibri.ttf') format(truetype);
+    font-family: 'Calibri Regular';
+    src: url('../../polices/Calibri.ttf') format('truetype');
 }
 
 * {
+    font-family: 'Calibri regular', sans-serif;
     background-color: #f2f2f2;
-    font-family: "Calibri Regular";
 }
 
 h1 {
