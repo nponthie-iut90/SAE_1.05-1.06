@@ -1,59 +1,139 @@
 <!DOCTYPE html>
 <html lang="fr">
+
 <head>
     <meta charset="UTF-8">
     <title>Page d'accueil</title>
     <link rel="icon" type="image/x-icon" href="SFR_favicon.ico">
     <link rel="stylesheet" href="styles.css">
 </head>
+
 <body>
     <header class="header">
-        <ul>
-            <li class="logo"><img src="SFR_logo.png" alt="Logo_SFR"></li>
-            <li class="research"><p>moteur de recherche</p></li>
-            <li class="menu"><p>menu burger</p></li>
-        </ul>
+        <nav class="wraper">
+            <ul>
+                <li>
+                    <img class="logo" src="images/SFR_logo.png" alt="Logo_SFR">
+                </li>
+                <li>
+                    <a href="https://nponthie-iut90.github.io/S1-2023-ihm/">Accueil</a>
+                </li>
+                <li>
+                    <a href="" title="Articles">Articles</a>
+                    <ul class="sub-menu">
+                        <li><a href="page1.html">Présentation de SFR</a></li>
+                        <li><a href="page2.html">Rapport économique</a></li>
+                        <li><a href="page3.html">Services SFR</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="" title="Traduire">Traduction</a>
+                    <ul class="sub-menu">
+                        <li><a href="index.html" title="français">Français</a></li>
+                        <li><a href="indexen.html" title="anglais">Anglais</a></li>
+                        <li><a href="indexit.html" title="Italien">Italien</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </nav>
     </header>
+    <br>
     <div class="presentation">
-        <h1>Bienvenue sur Histoire-SFR!</h1>
+        <h1>Bienvenue sur Comprendre-SFR!</h1>
         <h2>SFR est un opérateur de télécommunications majeur en France,
-        <br> proposant des services de téléphonie mobile, fixe, Internet haut débit et télévision par câble.</h2>
+            <br>
+            proposant des services de téléphonie mobile, fixe, Internet haut débit et télévision par câble.
+        </h2>
     </div>
-    <h3>menu:</h3>
-    <h4>articles:</h4>
-    <a href="page1.html">page1</a>
-    <br>
-    <a href="page2.html">page2</a>
-    <br>
-    <a href="page3.html">page3</a>
-    <h2>articles</h2>
+    <div class="Derniers-articles">
+        <h1><span>Derniers articles!</span></h1>
+    </div>
     <div class="grid">
-        <img class="image_enseigne" src="SFR_enseigne.png" alt="image de la box SFR">
-        <div class="article1">
-        <h2>Titre article</h2>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            Iure odit porro consectetur veniam excepturi, expedita, natus inventore minus quia labore, delectus sapiente ab ullam. 
-            Sed placeat saepe exercitationem ex repudiandae.</p>
-        <a href="page1.html">page 1</a>
+        <div class="grid-1" id="item1">
+            <img class="image_enseigne" src="images/SFR_enseigne.png" alt="image de l'enseigne SFR">
         </div>
-        <img class="image_boutique_sfr" src="image_boutique_sfr.png" alt="image d'une boutique SFR">
-        <div class="article2">
-        <h2>Titre article</h2>
-        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-            Ipsum odit quos labore cupiditate.
-            Non dolorem consectetur rerum tempore laboriosam labore quo enim sequi reiciendis id, voluptas ut nam consequuntur minima?</p>
-        <a href="page2.html">page 2</a>
+        <div class="grid-2" id="item4">
+            <h2>Présentation de SFR</h2>
+            <br>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                Iure odit porro consectetur veniam excepturi, expedita, natus inventore minus quia labore, delectus
+                sapiente ab ullam.
+                Sed placeat saepe exercitationem ex repudiandae.
+            </p>
+            <br>
+            <a href="page1.html">présentation de SFR >></a>
         </div>
-        <img class="image_Patrick_Drahi" src="Patrick_Drahi.png" alt="photo de Patrick Drahi">
-        <div class="article3">
-        <h2>Titre article</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-            Molestias esse iusto sequi nihil voluptates accusantium tempora corrupti?
-            Beatae expedita sit saepe, veritatis possimus sunt debitis quos veniam corrupti minima nemo!</p>
-        <a href="page3.html">page 3</a>
+        <div class="grid-4" id="item2">
+            <img class="image_boutique_sfr" src="images/image_boutique_sfr.png" alt="image d'une boutique SFR">
+        </div>
+        <div class="grid-3" id="item5">
+            <h2>Rapport économique</h2>
+            <br>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                Ipsum odit quos labore cupiditate.
+                Non dolorem consectetur rerum tempore laboriosam labore quo enim sequi reiciendis id, voluptas ut
+                nam
+                consequuntur minima?
+            </p>
+            <br>
+            <a href="page2.html">Rapport économique de SFR >></a>
+        </div>
+        <div class="grid-5" id="item3">
+            <img class="image_Patrick_Drahi" src="images/Patrick_Drahi.png" alt="photo de Patrick Drahi">
+        </div>
+        <div class="grid-6" id="item6">
+            <h2>services SFR</h2>
+            <br>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                Molestias esse iusto sequi nihil voluptates accusantium tempora corrupti?
+                Beatae expedita sit saepe, veritatis possimus sunt debitis quos veniam corrupti minima nemo!
+            </p>
+            <br>
+            <a href="page3.html">services SFR >></a>
         </div>
     </div>
-    <strong>squelette de la page d'accueil
-    FAIT par Nathan Ponthieu</strong>
+    <footer>
+        <div class="tfooter">
+            <div class="footer">
+                <img src="images/SFR_logo.png" alt="logo de SFR">
+            </div>
+            <div class="footer">
+                <h3>réseaux sociaux</h3>
+                <ul>
+                    <li>
+                        <img src="icones/linkedin.png" alt="logo de Linkedin">
+                        <a href="https://fr.linkedin.com/company/sfr">Linkedin</a>
+                    </li>
+                    <li>
+                        <img src="icones/Youtube.svg" alt="logo de Youtube">
+                        <a href="https://www.youtube.com/channel/UCmOWXd_I8xsFRViDcQBNolA">Youtube</a>
+                    </li>
+                    <li>
+                        <img src="icones/Instagram.svg" alt="logo d'instagram">
+                        <a href="https://www.instagram.com/sfr.officiel/?hl=fr">Instagram</a>
+                    </li>
+                    <li>
+                        <img src="icones/X.svg" alt="logo de X ex twitter">
+                        <a href="https://twitter.com/SFR">X</a>
+                    </li>
+                    <li>
+                        <img src="icones/facebook.png" alt="logo de Facebook">
+                        <a href="https://www.facebook.com/SFR/?locale=fr_FR">Facebook</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="footer">
+                <h3>projet</h3>
+                <ul>
+                    <li><a href="https://github.com/nponthie-iut90/S1-2023-ihm">projet GitHub</a></li>
+                    <li><a href="https://nponthie-iut90.github.io/S1-2023-ihm/">Lien page d'accueil</a></li>
+                </ul>
+            </div>
+        </div>
+        <strong>page d'accueil
+            faite par Nathan Ponthieu</strong>
+    </footer>
 </body>
+
 </html>
