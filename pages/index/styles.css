@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Calibri Regular";
-    src: url(../../polices/Calibri.ttf) format(truetype);
+    src: url('../../polices/Calibri.ttf') format(truetype);
 }
 
 * {
