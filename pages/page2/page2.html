@@ -6,7 +6,241 @@
     <meta http-equiv="X-UA-Compatible" Content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Site_web_SFR</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="SFR_favicon.ico">
+    <style>
+        *   {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:"Poppins", sans-serif;
+}
+
+body {
+    min-height: 100vh;
+
+}
+
+@font-face {
+    font-family: 'Calibri Regular';
+    src: url('../../polices/Calibri.ttf') format('truetype');
+}
+
+* {
+    font-family: 'Calibri regular', sans-serif;
+    background-color: #f2f2f2;
+}
+
+body {
+    margin: 0;
+}
+
+header {
+    border-bottom: 1px solid #181818;
+    background-color: #ffff;
+}
+
+header a {
+    text-decoration: none;
+}
+
+header ul {
+    margin:0;
+    padding:0;
+    background-color: #ffff;
+}
+
+header li {
+    list-style: none;
+    display: inline-block;
+    vertical-align: top;
+    position: relative;
+    width: 150px;
+    background-color: #ffff;
+}
+
+header li a {
+    display: block;
+    padding: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+header li a:hover {
+    background-color: #d90d25;
+    color: #ffff;
+}
+
+header li:hover .sub-menu {
+    display: block;
+}
+
+.wrapper {
+    margin: 0 auto;
+    width: 1000px;
+}
+
+.sub-menu {
+    display: none;
+    position: absolute;
+}
+
+.sub-menu li {
+    display: block;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    height: 80px;
+    width: 80px;
+    margin: 10px;
+}
+
+nav {
+    display: inline-block;
+}
+
+p {
+    background-color: #ffff;
+}
+
+a {
+    color: #d90d25;
+    background-color: #ffff;
+    font-weight: bold;
+}
+
+footer {
+    width: 100%;
+    max-width: 100%;
+    margin-top: 50px;
+    padding-bottom: 5px;
+    background-color: #181818;
+}
+
+footer a, h3, strong {
+    color: #ffff;
+    background-color: #181818;
+}
+
+footer strong {
+    font-size: 20px;
+}
+
+.footer {
+    width: 20%;
+    background-color: #181818;
+}
+
+footer img {
+    height: 80px;
+    width: 80px;
+    margin-top: 20px;
+}
+
+.tfooter {
+    display: flex;
+    justify-content:left;
+    align-items: flex-start;
+    background-color: #181818;
+}
+
+footer ul {
+    margin: 0;
+    padding: 0;
+    margin-bottom: 10px;
+    background-color: #181818;
+}
+
+footer li {
+    list-style: none;
+    background-color: #181818;
+}
+
+li img {
+    height: 20px;
+    width: 20px;
+    margin-top: 0px;
+}
+
+@media (max-width:600px) {
+    .footer {
+        width: 33%;
+    }
+}
+
+.research {
+    height: 60px;
+    width: 500px;
+    align-content: center;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+}
+
+.logo img {
+    height:80px;
+}
+
+.menu {
+    display:flex;
+    justify-content:center;
+    text-align: center;
+} 
+
+main  {
+    height: 600px;
+    width: 100%;
+    background: greenyellow;
+}
+
+.flexbox {
+    border: 0px solid darkblue;
+    border-radius: 0%;
+}
+
+.flexbox li {
+    list-style: none;
+    height: 600px;
+    width: 50%;
+    justify-content: center;
+}
+
+.flexbox li img {
+    align-items: center;
+}
+
+.flexbox li div {
+    background: white;
+    height: 600px;
+}
+
+.flexbox li div h1 {
+    margin-left: 50px;
+}
+
+.flexbox li div p {
+    margin-left: 50px;
+}
+
+.flexbox ul {
+    padding: 0;
+    display: flex;
+}
+
+.image-centree {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+}
+
+.flexbox h2 {
+    margin-left: 50px;
+}
+    </style>
 </head>
 <body>
     <header class="header">
