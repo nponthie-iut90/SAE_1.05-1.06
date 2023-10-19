@@ -88,6 +88,13 @@ a {
     font-weight: bold;
 }
 
+/*début du corp*/
+
+#Titre1{
+    text-align: center;
+}
+
+
 footer {
     width: 100%;
     max-width: 100%;
