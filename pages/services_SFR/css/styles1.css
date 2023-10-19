@@ -98,8 +98,8 @@ footer {
 }
 
 footer a, h3, strong {
-    color: #ffff;
-    background-color: #2c1a55;
+    color: #0a0a0a;
+    background-color: white;
 }
 
 footer strong {
@@ -265,8 +265,8 @@ p {
   }
   
   footer a, h3, strong {
-    color: #ffff;
-    background-color: #181818;
+    color: #161515;
+    background-color:  #ffff;
   }
   
   footer strong {
@@ -387,3 +387,4 @@ main {
 .grid p {
   background-color: #ffff;
 }
+
