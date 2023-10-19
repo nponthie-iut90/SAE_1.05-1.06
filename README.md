@@ -24,7 +24,7 @@ Pour la conception du site, nous nous sommes grandement inspirés du site de L'I
 
 ### Page d'accueil
 
-**Auteur : Nom Prénom**  
+**Auteur : PONTHIEU Nathan**  
 
 Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fdemo-am90.github.io%2Fs1-demo%2Findex.html)
 
@@ -38,42 +38,63 @@ ou
 
 <!--  style="width=400px" ne fonctionne pas -->
 
-### Présentation générale
+### Présentation de SFR
 
-**Auteur : Nom Prénom**  
+**Auteur : NGOM Ibrahima**  
 
 Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fdemo-am90.github.io%2Fs1-demo%2Findex.html)
 
 <br>
 <img src="doc/capture_1_W3C.png" width="400px" alt="capture ecran sur w3c">
 
+### Rapport économique
 
+**Auteur : MARCO Mickaël**
+
+Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fdemo-am90.github.io%2Fs1-demo%2Findex.html)
+
+<br>
+<img src="doc/capture_1_W3C.png" width="400px" alt="capture ecran sur w3c">
+
+### Services SFR
+
+**Auteur : ZIGGAR Simone-désirée**
+
+Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fdemo-am90.github.io%2Fs1-demo%2Findex.html)
+
+<br>
+<img src="doc/capture_1_W3C.png" width="400px" alt="capture ecran sur w3c">
 
 ## Répartition du travail
 
 ### Planification - Diagramme de GANTT
 
-- Nom Prénom
+- PONTHIEU Nathan
 
 ### Recherches d'informations
 
-- Nom Prénom
-- Nom Prénom
+- PONTHIEU Nathan
+- NGOM Ibrahima
+- MARCO Mickaël
+- ZIGGAR Simone-désirée
 
 
 ### Rapport économique
 
-- Nom Prénom
-- Nom Prénom
-- Nom Prénom
+- PONTHIEU Nathan
+- NGOM Ibrahima
+- MARCO Mickaël
+- ZIGGAR Simone-désirée
 
 ### Développement site
 
-- Nom Prénom
+- PONTHIEU Nathan
   - Page d’accueil
   - "Template" de page (Navbar/Footer)
-  - Page présentation
-- Nom Prénom
-  - Page histoire
-- Nom Prénom
-  - Page organisation
+  - Page d'accueil
+- NGOM Ibrahima
+  - Page de présentation
+- MARCO Mickaël
+  - Rapport économique
+-ZIGGAR Simone-désirée
+  - Services SFR
