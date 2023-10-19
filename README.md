@@ -59,7 +59,7 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&sho
 
 ### Participation GitHub
 
-![capture d'écran de la participation sur GitHub ...](doc/capture_participation_git_hub)
+![capture d'écran de la participation sur GitHub ...](doc/capture_participation_git_hub.png)
 
 ## Répartition du travail
 
