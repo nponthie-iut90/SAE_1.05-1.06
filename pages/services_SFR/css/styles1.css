@@ -125,7 +125,6 @@ a {
 }
 
 .grid {
-    display: grid;
     place-items: center;
     border-radius: 20px;
     grid-template-columns: auto;
