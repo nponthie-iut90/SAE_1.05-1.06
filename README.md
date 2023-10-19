@@ -29,11 +29,11 @@ Pour la conception du site, nous nous sommes grandement inspirés du site de L'I
 Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fnponthie-iut90.github.io%2FS1-2023-ihm%2Fpages%2Frapport_economique%2Frapport_economique.html)
 
 
-![capture d'écran de la conformité de la page ...](doc/Nathan_W3C)
+![capture d'écran de la conformité de la page ...](doc/Nathan_W3C.png)
 
 ou 
 
-<img src="doc/Nathan_W3C" style="width=400px" alt="capture ecran sur w3c">
+<img src="doc/Nathan_W3C.png" style="width=400px" alt="capture ecran sur w3c">
 
 
 <!--  style="width=400px" ne fonctionne pas -->
