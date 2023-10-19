@@ -31,21 +31,14 @@ Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&sh
 
 ![capture d'écran de la conformité de la page ...](doc/Nathan_W3C.png)
 
-ou 
-
-<img src="doc/Nathan_W3C.png" style="width=400px" alt="capture ecran sur w3c">
-
-
-<!--  style="width=400px" ne fonctionne pas -->
-
 ### Présentation de SFR
 
 **Auteur : NGOM Ibrahima**  
 
 Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fdemo-am90.github.io%2Fs1-demo%2Findex.html)
 
-<br>
-<img src="doc/capture_1_W3C.png" width="400px" alt="capture ecran sur w3c">
+
+![capture d'écran de la conformité de la page ...](doc/Ibrahima_W3C.png)
 
 ### Rapport économique
 
