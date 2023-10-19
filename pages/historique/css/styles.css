@@ -89,7 +89,7 @@ section.titre h1{
     
     font-size: 2.5rem;
     background-color:#f2f2f2;
-    text-decoration: underline;
+    
     text-align: center;
     font-weight: bold;
     color: #E2001A;
@@ -144,8 +144,8 @@ div.block h3{
     
 }
 .content .box{
-    border-radius: 5px;
-    border: 1px solid rgb(172, 164, 164);
+    border-radius: 8px;
+    border: 1px solid rgb(175, 157, 157);
     width: 100%;
     height: auto;
     box-shadow: 3px 3px 3px gray;
@@ -155,20 +155,25 @@ div.block h3{
     
 }
 .content .box p{
-    background-color: #f2f2f2;
+    background-color: white;
     line-height: 1.2;
     text-indent: 40px;
     font-size: 1.2rem;
     
 }
 .content .box p span{
+    background-color: white;
     color: rgb(170, 31, 13);
     font-size: 1.3rem;
     font-weight: bold;
 
 }
+.content .box p b{
+    background-color: white;
+}
 
 .container h2 {
+    background-color: #f2f2f2;
     color: #181818;
     font-size: 2rem;
     font-style: oblique;
@@ -213,8 +218,8 @@ div.paragraphe h3{
 
     border: 1px solid ghostwhite;
     margin-top: 20px;
-    width: 400px;
-    height: 270px;
+    width: 310px;
+    height: 300px;
     border-radius: 10px;
 }
 @media (max-width:1453px) {
@@ -236,13 +241,15 @@ div.paragraphe h3{
 
 
 .container .bolt p{
-    background-color: #f2f2f2;
+    padding: 8px;
+    border-radius: 7px;
     text-indent: 20px;
     line-height: 1.2;
     margin-top: 20px;
     font-size: 1.4rem;
 }
 .container .bolt p span{
+    background-color: white;
     font-size: 1.4em;
     color: brown;
     font-weight:bolder;
@@ -268,7 +275,9 @@ div.paragraphe .texte{
     
 }
 div.paragraphe .texte p{
-    background-color: #f2f2f2;
+    background-color: white;
+    padding: 13px;
+    border-radius: 7px;
     text-indent: 20px;
     line-height: 1.2;
     margin-top: 20px;
@@ -300,7 +309,9 @@ div.parent_toto{
 
 }
 .parent_toto .toto p{
-    background-color: #f2f2f2;
+    background-color: white;
+    padding: 13px;
+    border-radius: 7px;
     text-indent: 20px;
     line-height: 1.2;
     margin-top: 20px;
@@ -308,6 +319,7 @@ div.parent_toto{
 
 }
 .parent_toto .toto p span{
+    background-color: white;
     font-size: 1.4em;
     color: brown;
     font-weight:bolder;
@@ -318,8 +330,8 @@ div.parent_toto{
 .parent_toto .toto img{
 border: 1px solid ghostwhite;
 margin-top: 20px;
-width: 400px;
-height: 320px;
+width: 310px;
+height: 300px;
 border-radius: 10px;
 }
 
