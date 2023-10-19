@@ -71,6 +71,15 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&sho
 
 - PONTHIEU Nathan
 
+### Questionnaire 1
+
+- PONTHIEU Nathan
+
+### Questionnaire 2
+
+- PONTHIEU Nathan
+- NGOM Ibrahima
+
 ### Recherches d'informations
 
 - PONTHIEU Nathan
