@@ -134,6 +134,7 @@ a {
     margin-left: 10%;
     margin-right: 10%;
     grid-gap:30px;
+    display:flex;
 }
 
 #image-container {
