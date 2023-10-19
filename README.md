@@ -53,9 +53,13 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&sho
 
 **Auteur : ZIGGAR Simone-désirée**
 
-Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fdemo-am90.github.io%2Fs1-demo%2Findex.html)
+Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fnponthie-iut90.github.io%2FS1-2023-ihm%2Fpages%2Fservices_SFR%2Fservices_SFR.html)
 
 ![capture d'écran de la conformité de la page ...](doc/Simone_W3C.png)
+
+### Participation GitHub
+
+![capture d'écran de la participation sur GitHub ...](doc/capture_participation_git_hub)
 
 ## Répartition du travail
 
