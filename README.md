@@ -96,5 +96,5 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&sho
   - Page de présentation
 - MARCO Mickaël
   - Rapport économique
--ZIGGAR Simone-désirée
+- ZIGGAR Simone-désirée
   - Services SFR
