@@ -93,26 +93,31 @@ a {
 #h3-1{
     background-color: #f2f2f2;
     color: black;
+    margin-left: 50px;
 }
 
 #h3-2{
     background-color: #f2f2f2;
-    color:black
+    color:black;
+    margin-left: 50px;
 }
 
 #h3-3{
     background-color: #f2f2f2;
     color: black;
+    margin-left: 50px;
 }
 
 #h3-4{
     background-color:#f2f2f2;
     color: black;
+    margin-left: 50px;
 }
 
 #h3-5{
     background-color: #f2f2f2;
     color: black;
+    margin-left: 50px;
 }
 
 
@@ -124,27 +129,84 @@ a {
     margin-left:50px;
 }
 
-.grid {
+#Sous-titre2{
+    margin-left:50px;
+}
+
+#Sous-titre3{
+    margin-left:50px;
+}
+
+.grid-a {
+    
     place-items: center;
-    border-radius: 20px;
     grid-template-columns: auto;
     grid-template-rows: auto;
     row-gap: 20px;
+    grid-gap: 30px;
     margin-left: 10%;
     margin-right: 10%;
-    grid-gap:30px;
     display:flex;
+    background-color: #f2f2f2;
+}
+
+
+.grid-c{
+    display: flex;
+    background-color: #f2f2f2;
+    margin-left:10%;
+    grid-gap:30px;
+}
+
+.grid-1{
+    background-color: #f2f2f2;
+    border-radius: 0px 0px 0px 0px; /* Bords arrondis */
+    min-width: 100%; /* responsive */
+    height: 100%; /* responsive */
+    margin-top: 20px;   
+}
+
+.grid-2{
+    background-color: #ffff;
+    border-radius: 0px 0px 0px 0px; /* Bords arrondis */
+    min-width: 100%; /* responsive */
+    height: 100%; /* responsive */
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    margin-right: 30px;
+}
+
+.grid-2 h3{
+    margin-left: 200px;
+    background-color: #ffffff;
 }
 
 #image-container {
     grid-column: 1;
     grid-row: 1;
+    display:flex;
 }
 
 #dil {
     grid-column: 2;
     grid-row: 1;
+    
 }
+
+p{
+    background-color: #f2f2f2;
+}
+
+#image1{
+    margin-bottom: 30px;
+}
+
+#image2{
+    margin-left:-50px;
+}
+
+
 
 /*fin du corp*/
 
@@ -207,5 +269,3 @@ li img {
         width: 33%;
     }
 }
-
-
