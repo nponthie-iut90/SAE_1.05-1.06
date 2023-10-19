@@ -90,9 +90,63 @@ a {
 
 /*début du corp*/
 
+#h3-1{
+    background-color: #f2f2f2;
+    color: black;
+}
+
+#h3-2{
+    background-color: #f2f2f2;
+    color:black
+}
+
+#h3-3{
+    background-color: #f2f2f2;
+    color: black;
+}
+
+#h3-4{
+    background-color:#f2f2f2;
+    color: black;
+}
+
+#h3-5{
+    background-color: #f2f2f2;
+    color: black;
+}
+
+
 #Titre1{
     text-align: center;
 }
+
+#Sous-titre1{
+    margin-left:50px;
+}
+
+.grid {
+    display: grid;
+    place-items: center;
+    border-radius: 20px;
+    grid-template-columns: auto;
+    grid-template-rows: auto;
+    row-gap: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+    grid-gap:30px;
+}
+
+#image-container {
+    grid-column: 1;
+    grid-row: 1;
+}
+
+#dil {
+    grid-column: 2;
+    grid-row: 1;
+}
+
+/*fin du corp*/
 
 
 footer {
